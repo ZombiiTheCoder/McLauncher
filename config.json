@@ -1,0 +1,6 @@
+{
+    "version": "1.12.2",
+    "version_manifest": "https://piston-meta.mojang.com/mc/game/version_manifest.json",
+    "versionLoader": "custom",
+    "profileID":"1"
+}

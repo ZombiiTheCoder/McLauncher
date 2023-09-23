@@ -1,0 +1,10 @@
+asset_installer.py
+Libs.txt
+Libs_MAC.txt
+t.json
+__pycache__
+helpers/__pycache__
+helpers/print/__pycache__
+helpers/libraries/__pycache__
+.minecraft
+e.bat
